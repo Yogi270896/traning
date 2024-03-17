@@ -19,7 +19,7 @@ func TestGetrate(t *testing.T) {
 			Country: "US",
 		},
 		Toaddr: models.Toaddress{
-			Pincode: "90005",
+			Pincode: "90003",
 			City:    "California",
 			State:   "CA",
 			Country: "US",
